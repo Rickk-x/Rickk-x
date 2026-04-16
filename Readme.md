@@ -1,7 +1,10 @@
+# 💫 About Me:
+  Hi, I’m Rick, a software development student at ROC Midden Nederland. I mainly focus on frontend development because I like building clean and responsive interfaces that actually feel     good to use.
+
+  I also know some backend stuff, so I can work on both sides of a project when needed. Right now I’m mostly trying to get better at writing solid code and building more complete            applications.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rick-kok-63ab492aa/) 
-# 💻 Tech Stack:
-
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
